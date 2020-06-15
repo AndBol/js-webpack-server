@@ -1,7 +1,7 @@
 # Criando projeto JS com Babel e Webpack Dev Server
 ----
 
-*Este tutorial foi criado baseado no curso de ES6 do [Rocketseat](https://rocketseat.com.br/). *
+*Este tutorial foi criado baseado no curso de ES6 do [Rocketseat](https://rocketseat.com.br/).*
 
 ## Instalar NodeJS e Yarn
 * [NodeJS](https://nodejs.org/en/)
